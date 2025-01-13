@@ -1,0 +1,6 @@
+streamlit
+rmn
+matplotlib
+numpy
+Pillow
+opencv-python-headless
